@@ -7,7 +7,7 @@
 ## Setup
 $ pip install -r requirements.txt
 
-## Evaluation Results
+## Evaluation Results (on 10% validation set)
 
 ### Random Forest Regressor
 * **ArrivalDelay MAE:** 0.451
