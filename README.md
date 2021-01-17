@@ -33,6 +33,7 @@ $ pip install -r requirements.txt
 ## Improvements
 
 * Identify mmore Key Performace Indocators (KPIs) and add it to the dataset.
+* Data Distribution between train, validation and test set should be kept uniform. 
 * Train on a larger dataset. 
 * Use time-series analysis.
 
