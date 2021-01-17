@@ -1,5 +1,11 @@
 # Train Delay Estimation
 
+## Overview
+
+* All the statistical analysis (EDA, Data Preparation, model) are in the **Solution.ipynb** notebook.
+* Additionally you can also refer to "report.html" for the EDA.
+* Please find the **RishabPal_solution.csv** file for the test results. 
+
 ## Environment
 * python == 3.6.8
 * Ubuntu 18.04 LTS
