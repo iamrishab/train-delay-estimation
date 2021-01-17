@@ -27,6 +27,7 @@ $ pip install -r requirements.txt
 ## Improvements
 
 * Identify mmore Key Performace Indocators (KPIs) and add it to the dataset.
+* Train on a larger dataset. 
 * Use time-series analysis.
 
 ## Papers
